@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failed checkout because need lastname</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20243d5e-42f5-4518-8dd8-77ee3ec18b29</testCaseGuid>
+</TestCaseEntity>

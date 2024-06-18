@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>valid cancel button from checkout information user page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44f1453c-4e91-4d89-b79a-c41f3e352641</testCaseGuid>
+</TestCaseEntity>

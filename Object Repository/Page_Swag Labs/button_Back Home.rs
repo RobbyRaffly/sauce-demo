@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Continue Shopping</name>
+   <name>button_Back Home</name>
    <tag></tag>
-   <elementGuidId>ebd1c239-d05a-4dd4-b58f-e379f89347df</elementGuidId>
+   <elementGuidId>80a46f84-58b9-4586-a7fa-2b9155bc6669</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='continue-shopping']</value>
+         <value>//button[@id='back-to-products']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#continue-shopping</value>
+         <value>#back-to-products</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[data-test=&quot;continue-shopping&quot;]</value>
+         <value>[data-test=&quot;back-to-products&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,111 +29,111 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>782e6c8c-987b-4348-ae85-e23b4feb8a4c</webElementGuid>
+      <webElementGuid>07c5427f-7452-45ef-82f9-7a48ac4fdd00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn_secondary back btn_medium</value>
-      <webElementGuid>aec04eab-3eb8-4289-b65e-7b7308dd6910</webElementGuid>
+      <value>btn btn_primary btn_small</value>
+      <webElementGuid>6761e4b1-3005-451f-8443-6fa825e5b9a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-test</name>
       <type>Main</type>
-      <value>continue-shopping</value>
-      <webElementGuid>4d856456-8e91-4310-bec0-deeb87891d5b</webElementGuid>
+      <value>back-to-products</value>
+      <webElementGuid>c034e7b5-a7d0-4861-8f7a-94fdaba23a4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>continue-shopping</value>
-      <webElementGuid>c27777ab-3225-4432-9367-56bb575490ea</webElementGuid>
+      <value>back-to-products</value>
+      <webElementGuid>b1182959-2f8d-43d7-ab24-129aa7912abf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>continue-shopping</value>
-      <webElementGuid>76d66d3e-2318-49eb-a755-9107831433a8</webElementGuid>
+      <value>back-to-products</value>
+      <webElementGuid>e000a902-e1bd-4112-9016-0b32f0ebaed1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Continue Shopping</value>
-      <webElementGuid>084d32ed-5fe3-4694-88f4-d35239e60470</webElementGuid>
+      <value>Back Home</value>
+      <webElementGuid>4ee72d83-9e88-4f8d-a138-81905d7cf881</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;continue-shopping&quot;)</value>
-      <webElementGuid>fb014f96-1408-4920-b514-8e2075ffa8ad</webElementGuid>
+      <value>id(&quot;back-to-products&quot;)</value>
+      <webElementGuid>743089da-6355-4359-81d9-e5789608c1e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='continue-shopping']</value>
-      <webElementGuid>d8bba954-2af8-4d27-a84e-42411f9a990d</webElementGuid>
+      <value>//button[@id='back-to-products']</value>
+      <webElementGuid>b7301c9c-70ac-43b5-bac0-5389559a0a82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cart_contents_container']/div/div[2]/button</value>
-      <webElementGuid>ea7b83ee-4c91-494a-96f9-8cc2397dcc28</webElementGuid>
+      <value>//div[@id='checkout_complete_container']/button</value>
+      <webElementGuid>53d80322-c4cc-4305-a425-5fe72c3326f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::button[1]</value>
-      <webElementGuid>cf68eb67-1a6a-401e-969d-2d05bbcd8512</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your order has been dispatched, and will arrive just as fast as the pony can get there!'])[1]/following::button[1]</value>
+      <webElementGuid>cc8aeebb-5d00-441e-b542-8b1cd997a1a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/following::button[1]</value>
-      <webElementGuid>57527c4c-e040-4dc2-abaa-fb1efe785773</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for your order!'])[1]/following::button[1]</value>
+      <webElementGuid>84c51dac-c23d-45c5-98e6-bee5b8f3ab58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::button[1]</value>
-      <webElementGuid>92e0d3a8-4591-4876-a166-d2afe4a65ab9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::button[1]</value>
+      <webElementGuid>618ee368-7463-45c7-900a-3c2836275784</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::button[2]</value>
-      <webElementGuid>2eaf46d4-41d5-4f9a-91f1-0d84f86481cc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::button[1]</value>
+      <webElementGuid>31f53ce1-f957-4b06-b907-6c597603f0b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Continue Shopping']/parent::*</value>
-      <webElementGuid>8bafcf6e-64d2-4a36-9bc7-b128877d7026</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Back Home']/parent::*</value>
+      <webElementGuid>9f72ad86-858f-48cd-a1ac-a090a77410db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,14 +141,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>8e82543d-2980-4b17-9581-75f5beeadc78</webElementGuid>
+      <webElementGuid>f74f1de6-d5d7-4e65-b7fe-cc315b07d951</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'continue-shopping' and @name = 'continue-shopping' and (text() = 'Continue Shopping' or . = 'Continue Shopping')]</value>
-      <webElementGuid>6ac0b636-27fe-4cb4-a9e3-1ef91c6978f6</webElementGuid>
+      <value>//button[@id = 'back-to-products' and @name = 'back-to-products' and (text() = 'Back Home' or . = 'Back Home')]</value>
+      <webElementGuid>923b09bc-eb28-43f9-987c-37997a0cc97a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
