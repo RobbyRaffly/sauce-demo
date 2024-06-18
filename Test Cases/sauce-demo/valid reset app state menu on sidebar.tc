@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>valid reset app state menu on sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a102945-2d6f-4c3b-9a37-0b88af586ab8</testCaseGuid>
+</TestCaseEntity>

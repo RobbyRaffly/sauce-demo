@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failed checkout because need postalcode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50bb6c13-85b7-4c16-a073-e05a7f29f0fb</testCaseGuid>
+</TestCaseEntity>

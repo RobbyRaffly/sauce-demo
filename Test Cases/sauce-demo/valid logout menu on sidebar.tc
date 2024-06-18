@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>valid logout menu on sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fa85081-4ea0-4741-95bf-2966e56409cf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Swag Labs</name>
+   <tag></tag>
+   <elementGuidId>88777431-5f05-4d05-ac06-abb7da38298b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_container']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.app_logo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Swag Labs&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8438478-f2fa-490b-a7cb-dd3f0a8be7bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app_logo</value>
+      <webElementGuid>b9cbc0a6-553b-4bad-ad65-f20e06c25ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Swag Labs</value>
+      <webElementGuid>bb9a3d9d-840d-4a42-8055-1cf7eb1dd3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_container&quot;)/div[@class=&quot;primary_header&quot;]/div[@class=&quot;header_label&quot;]/div[@class=&quot;app_logo&quot;]</value>
+      <webElementGuid>3711d079-ed46-4f47-956e-4ae58883b2a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_container']/div/div[2]/div</value>
+      <webElementGuid>dcffda38-fb76-40bd-b89c-d74bf62fb954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[2]</value>
+      <webElementGuid>136e2fac-d44c-4eff-883b-91c8f3293a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::div[4]</value>
+      <webElementGuid>956eaa76-9172-43ee-87ab-b5b13f2e155d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::div[2]</value>
+      <webElementGuid>954adc90-e30d-4daa-8e25-c516aebbfff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/preceding::div[2]</value>
+      <webElementGuid>5c251159-000c-4a22-953d-46da3aafa88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>27eb0f28-2700-4301-8157-dd27c8710e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Swag Labs' or . = 'Swag Labs')]</value>
+      <webElementGuid>12e19df9-dc90-43c7-85f2-5b1a79f69a2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

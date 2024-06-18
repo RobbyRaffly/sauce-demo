@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Error Postal Code is required</name>
+   <tag></tag>
+   <elementGuidId>c837e2db-6fb6-4e17-8ece-49c824470bdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_info_container']/div/form/div/div[4]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;error&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>bbc5b256-3763-4d28-9856-710412638c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>eeec46c5-5929-480b-978b-99f33e3dbe7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error: First Name is required</value>
+      <webElementGuid>9a469a1f-71d8-409c-9e63-9691b70abd2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_info_container&quot;)/div[@class=&quot;checkout_info_wrapper&quot;]/form[1]/div[@class=&quot;checkout_info&quot;]/div[@class=&quot;error-message-container error&quot;]/h3[1]</value>
+      <webElementGuid>8b45d812-3d32-4288-9228-00230868db1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_info_container']/div/form/div/div[4]/h3</value>
+      <webElementGuid>db4cdb05-99ab-4366-834a-546944d55654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout: Your Information'])[1]/following::h3[1]</value>
+      <webElementGuid>5a64eb1c-aa97-4f5a-b8c1-06532a6b3ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::h3[1]</value>
+      <webElementGuid>d4605957-2e91-4cf0-b633-74d5dfc387f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::h3[1]</value>
+      <webElementGuid>8246ad02-5857-4e61-a23d-b9b8723b75aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::h3[1]</value>
+      <webElementGuid>f2a3a8f1-a55d-4778-a516-9bf4c51ea2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Error: First Name is required']/parent::*</value>
+      <webElementGuid>b26c7988-0e1a-418b-b994-01db9b4ed169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>09548fb6-6e57-4889-bbe3-a904cbc440ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Error: First Name is required' or . = 'Error: First Name is required')]</value>
+      <webElementGuid>a0d35b9d-91b2-4f35-899a-6db8804b4e12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
