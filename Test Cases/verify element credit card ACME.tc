@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify element credit card ACME</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28969bf1-dc79-46e9-834d-515126d5cb8e</testCaseGuid>
+</TestCaseEntity>

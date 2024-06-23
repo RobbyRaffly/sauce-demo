@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>veirfy login page ACME</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2780fc43-e25e-43d1-bcb1-8307fc5d6146</testCaseGuid>
+</TestCaseEntity>
